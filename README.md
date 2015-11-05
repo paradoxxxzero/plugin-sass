@@ -17,7 +17,7 @@ mechanism yet and has some blocking bugs (see Issues).
 ## Installation
 
 ```
-$ jspm install sass=github:theefer/plugin-sass
+$ jspm install sass=github:paradoxxxzero/plugin-sass
 ```
 
 ## Usage
